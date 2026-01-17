@@ -1,3 +1,3 @@
 # ele1011N **koyu** cşk
 koyu **cik**
-![exaomple image] (asd.jpeg)
+![exaomple image] (asd.jpg)
